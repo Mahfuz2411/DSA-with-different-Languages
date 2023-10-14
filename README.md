@@ -2,7 +2,7 @@
 
 Welcome to the "DSA with Different Languages" repository! Here, we explore the exciting world of Data Structures and Algorithms (DSA) using a variety of programming languages. Whether you're a beginner learning the basics or an experienced coder looking to brush up on your skills, you're in the right place!
 
-![Data Structures and Algorithms](https://media.giphy.com/media/3oKIPcUg1vFmjgJa5q/giphy.gif)
+![Funny Coding](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)
 
 ## Table of Contents
 
@@ -54,7 +54,7 @@ Here are some resources to enhance your DSA journey:
 
 ## License
 
-This repository is licensed under the [MIT License](LICENSE). Feel free to use the code, modify it, and learn from it. Remember to give credit where it's due!
+Feel free to use the code, modify it, and learn from it. Remember to give credit where it's due!
 
 Happy Coding! 🚀
 
