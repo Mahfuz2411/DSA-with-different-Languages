@@ -1,3 +1,7 @@
+/**
+ * ** Prerequisite to understand this code
+ *  -> Object Oriented Programming
+*/
 #include <bits/stdc++.h>
 using namespace std;
 
