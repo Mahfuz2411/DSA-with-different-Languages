@@ -52,7 +52,7 @@ Here are some resources to enhance your DSA journey:
 
 ## License
 
-Feel free to use the code, modify it, and learn from it. Remember to give credit where it's due!
+Feel free to use the code, modify it, and learn from it. Remember to give a star in this repository and credit where it's due! 
 
 Happy Coding! 🚀
 
