@@ -43,7 +43,7 @@ class list{
   }
 }
 
-public class HelloWorld {
+public class stack {
     public static void Main(string[] args) {
         list ob = new list();
         ob.push(5);
