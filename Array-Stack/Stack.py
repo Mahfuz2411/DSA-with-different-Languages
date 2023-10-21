@@ -1,3 +1,7 @@
+'''
+ ** Prerequisite to understand this code
+    -> Object Oriented Programming
+'''
 class Stack:
     def __init__(self):
         self.arr = []
