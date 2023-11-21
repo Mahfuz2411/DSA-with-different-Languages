@@ -8,7 +8,7 @@ Welcome to the "DSA with Different Languages" repository! Here, we explore the e
 
 1. [Introduction](#introduction)
 2. [Languages](#languages)
-3. [Contributing](#contributing)
+3. [Contributing](#contributing) (Not available for now)
 4. [Resources](#resources)
 5. [License](#license)
 
@@ -30,7 +30,7 @@ Here are some of the languages we're using in this repository:
 
 Feel free to explore DSA with any of these languages or even contribute your own solutions!
 
-## Contributing
+## Contributing (Not available for now)
 
 We welcome contributions from all the coding wizards out there! If you have a fantastic solution or want to improve an existing one, follow these steps:
 
