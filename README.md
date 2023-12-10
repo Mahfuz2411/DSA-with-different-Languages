@@ -23,6 +23,7 @@ Data Structures and Algorithms are the heart and soul of computer science. They'
 Here are some of the languages we're using in this repository:
 
 - **Python** 🐍
+- **C** 🧩
 - **C++** 🧩
 - **Java** ☕
 - **JavaScript** 🌐
