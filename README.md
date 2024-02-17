@@ -49,7 +49,7 @@ Here are some resources to enhance your DSA journey:
 
 - [GeeksforGeeks](https://www.geeksforgeeks.org/): A treasure trove of DSA articles in multiple languages.
 - [LeetCode](https://leetcode.com/): Practice problems and contests to level up your skills.
-- [HackerRank](https://www.hackerrank.com/domains/tutorials/10-days-of-javascript): Tutorials, challenges, and competitions.
+- [HackerRank](https://www.hackerrank.com/dashboard): Tutorials, challenges, and competitions.
 
 ## License
 
