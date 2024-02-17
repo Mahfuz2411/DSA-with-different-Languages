@@ -28,6 +28,7 @@ Here are some of the languages we're using in this repository:
 - **Java** ☕
 - **JavaScript** 🌐
 - **C#** 🖥️
+- **Dart** 🖥️ (Gaining Resources...)
 
 Feel free to explore DSA with any of these languages or even contribute your own solutions!
 
