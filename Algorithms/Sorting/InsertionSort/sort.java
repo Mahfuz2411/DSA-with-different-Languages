@@ -37,5 +37,7 @@ public class sort {
     for (int value : arr)
       System.out.print(value + " ");
     System.out.println("]");
+
+    sc.close();
   }
 }
