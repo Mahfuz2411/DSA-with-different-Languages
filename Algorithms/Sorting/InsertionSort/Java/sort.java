@@ -1,5 +1,3 @@
-package Algorithms.Sorting.InsertionSort;
-
 import java.util.*;
 
 public class sort {
