@@ -1,4 +1,9 @@
-![Under Construction](https://github.com/Mahfuz2411/DSA-with-different-Languages/blob/main/m_Assests/construction.png)
+<!-- ![Under Construction](https://github.com/Mahfuz2411/DSA-with-different-Languages/blob/main/m_Assests/construction.png) -->
+
+> ⚠️ **Caution**: This repository is actively under construction and may contain bugs or unfinished features.!
+>
+> Make sure you understand the code before use.
+
 
 # DSA with Multilingual Magic ✨
 
