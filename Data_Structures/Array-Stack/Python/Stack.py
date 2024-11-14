@@ -10,7 +10,7 @@ class Stack:
     def __init__(self, x):
         self.arr = []
         self.arr.append(x)
-        self.size = 1;
+        self.size = 1
         
     def push_back(self, x):
         self.arr.append(x)
