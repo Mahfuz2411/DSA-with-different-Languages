@@ -9,7 +9,8 @@
 
 Welcome to the "DSA with Different Languages" repository! Here, we explore the exciting world of Data Structures and Algorithms (DSA) using a variety of programming languages. Whether you're a beginner learning the basics or an experienced coder looking to brush up on your skills, you're in the right place!
 
-![Funny Coding](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)
+<!-- ![Funny Coding](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif) -->
+<img height="200" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
 
 ## Table of Contents
 
@@ -21,14 +22,15 @@ Welcome to the "DSA with Different Languages" repository! Here, we explore the e
 
 ## Introduction
 
-Data Structures and Algorithms are the heart and soul of computer science. They're the building blocks of efficient, high-performance code. This repository is your playground to explore DSA using a multitude of programming languages. We aim to make learning and practicing DSA as exciting as a magic show.
+Data Structures and Algorithms are the heart and soul of computer science. They're the building blocks of efficient, high-performance code. This repository is your playground to explore DSA using a multitude of programming languages. I aim to make learning and practicing DSA as exciting as a magic show. 
 
-<!--
-![Magic Show](https://tenor.com/bmLld.gif)
--->
+<img height="200" src="https://c.tenor.com/yjyWmNR-u0YAAAAd/tenor.gif">
+
+<!-- ![Magic Show](https://c.tenor.com/yjyWmNR-u0YAAAAd/tenor.gif) -->
+
 ## Languages
 
-Here are some of the languages we're using in this repository:
+Here are some of the languages I'm using in this repository:
 
 - **Python** 🐍
 - **C** 🧩
@@ -42,7 +44,7 @@ Feel free to explore DSA with any of these languages or even contribute your own
 
 ## Contributing (Not available for now)
 
-We welcome contributions from all the coding wizards out there! If you have a fantastic solution or want to improve an existing one, follow these steps:
+I welcome contributions from all the coding wizards out there! If you have a fantastic solution or want to improve an existing one, follow these steps:
 
 1. Fork this repository.
 2. Create a new branch for your feature or bugfix: `git checkout -b feature/your-feature-name`.
@@ -66,6 +68,7 @@ Feel free to use the code, modify it, and learn from it. Remember to give a star
 
 Happy Coding! 🚀
 
-![Magic Coding](https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif)
+<!-- ![Magic Coding](https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif) -->
+<img height="200" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif">
 
 Stay curious, keep coding, and make the magic happen! ✨
