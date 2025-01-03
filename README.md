@@ -23,8 +23,9 @@ Welcome to the "DSA with Different Languages" repository! Here, we explore the e
 
 Data Structures and Algorithms are the heart and soul of computer science. They're the building blocks of efficient, high-performance code. This repository is your playground to explore DSA using a multitude of programming languages. We aim to make learning and practicing DSA as exciting as a magic show.
 
+<!--
 ![Magic Show](https://tenor.com/bmLld.gif)
-
+-->
 ## Languages
 
 Here are some of the languages we're using in this repository:
