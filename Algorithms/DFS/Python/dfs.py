@@ -13,7 +13,7 @@ for _ in range(m):
     g[v].append(u)  # for undirected graphs
 
 
-# codes of bfs start from here
+# codes of dfs start from here
 vis = [0]*(n+1)
 que = []
 
