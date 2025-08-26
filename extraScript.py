@@ -59,7 +59,7 @@ def generate_tree(path=".", prefix=""):
         else:
             encoded_path = quote(rel_path)
             github_url = GITHUB_BASE_URL + encoded_path
-            output_lines.append(f'{prefix}{pointer}[{icon} {name}]({github_url})')
+            output_lines.append(f'{prefix}{pointer}[{icon} {name}]("{github_url}")')
 
 # === MAIN EXECUTION ===
 output_lines = []
