@@ -1,12 +1,18 @@
 import os
 import fnmatch
+from urllib.parse import quote
 
 # === CONFIGURATION ===
 IGNORE_PATTERNS = [".git", ".gitignore", ".vscode", "m_Assets", "*.exe", "*.class", "*.o", "extra.*", "extraScript.py"]
-ROOT_DIR = "."  # Set your project root here
+ROOT_DIR = "."  # Project root
 OUTPUT_FILE = "FOLDER_STRUCTURE.md"
 
+# GitHub repo root URL
+GITHUB_BASE_URL = "https://github.com/Mahfuz2411/DSA-with-different-Languages/blob/main/"
+
 FOLDER_ICON = "📁"
+GENERIC_FILE_ICON = "📄"
+
 # === EXTENSION-BASED ICONS ===
 EXT_ICONS = {
     ".py": "🐍",
@@ -19,7 +25,6 @@ EXT_ICONS = {
     ".cs": "💻",
     ".dart": "💻",
 }
-GENERIC_FILE_ICON = "📄"
 
 # === IGNORE FILTER ===
 def should_ignore(rel_path):
@@ -44,11 +49,17 @@ def generate_tree(path=".", prefix=""):
     pointers = ['├── '] * (len(entries) - 1) + ['└── ']
     for pointer, name in zip(pointers, entries):
         full_path = os.path.join(path, name)
+        rel_path = os.path.relpath(full_path, ROOT_DIR).replace("\\", "/")  # GitHub uses forward slashes
         icon = get_icon(full_path)
-        output_lines.append(f"{prefix}{pointer}{icon} {name}")
+
         if os.path.isdir(full_path):
+            output_lines.append(f"{prefix}{pointer}{icon} {name}")
             extension = '│   ' if pointer == '├── ' else '    '
             generate_tree(full_path, prefix + extension)
+        else:
+            encoded_path = quote(rel_path)
+            github_url = GITHUB_BASE_URL + encoded_path
+            output_lines.append(f'{prefix}{pointer}[{icon} {name}]({github_url})')
 
 # === MAIN EXECUTION ===
 output_lines = []
@@ -63,4 +74,4 @@ output_lines.append("```")
 with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
     f.write("\n".join(output_lines))
 
-print(f"✅ Folder structure with icons written to: {OUTPUT_FILE}")
+print(f"✅ Folder structure with clickable file links written to: {OUTPUT_FILE}")
