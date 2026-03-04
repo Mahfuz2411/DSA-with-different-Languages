@@ -4,4 +4,5 @@
 .vscode
 extra.*
 
+__pycache__
 PROJECT_PLAN.md
